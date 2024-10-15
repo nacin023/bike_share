@@ -34,9 +34,8 @@ The data consists of three datasets combined through SQL queries, containing inf
 **Dimensions**:
 - **Time**: Year, Season, Weekday, Hour
 - **Location**: Data spans across all operational regions of the company.
-- **Product**: Bike rides sold at varying prices between 2021 and 2022.
+- **Product**: Bike rides booked at varying prices between 2021 and 2022.
 
-**ERD**:  
 <img width="701" alt="ERD- PowerBI Project" src="https://github.com/user-attachments/assets/0c2db004-a6c5-4b09-b27a-665f897c3597">
 
 
