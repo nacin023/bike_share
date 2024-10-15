@@ -54,6 +54,7 @@ The data consists of three datasets combined through SQL queries, containing inf
 - **Rider Growth**: 64.88%
 - **Price Increase**: 25.06%
 
+
 ## 4. Insights Deep Dive
 **Insight 1: Revenue by Season**  
 - **Quantified Value**: Season 3 (July-September) generated the highest revenue at $4.9M, followed by Season 2 ($4.2M), Season 4 ($3.9M), and Season 1 ($2.2M).
@@ -61,7 +62,9 @@ The data consists of three datasets combined through SQL queries, containing inf
 - **Historical Trend/Story**: Peak revenue months were May through October, with a slight dip in colder months.
 - **Sliced by Dimension**: Revenue varies seasonally, with the most significant increases seen in late spring through early fall.
 
-- <img width="891" alt="KPI Overtime" src="https://github.com/user-attachments/assets/0ee73c62-a26e-4075-8db5-7defe82464b2">
+<img width="891" alt="KPI Overtime" src="https://github.com/user-attachments/assets/0ee73c62-a26e-4075-8db5-7defe82464b2">
+
+
 
 
 **Insight 2: Rider Demographics**  
@@ -69,14 +72,18 @@ The data consists of three datasets combined through SQL queries, containing inf
 - **Business Impact**: Encouraging casual riders to register could increase rider loyalty and ride frequency.
 - **Sliced by Dimension**: Demographic breakdowns show minimal variance across days of the week.
 
-- <img width="387" alt="rider demographic" src="https://github.com/user-attachments/assets/eb453758-290f-4d49-8474-b5ab684428ea">
+ <img width="387" alt="rider demographic" src="https://github.com/user-attachments/assets/eb453758-290f-4d49-8474-b5ab684428ea">
+
+
 
 
 **Insight 3: Weekday Revenue Trends**  
 - **Quantified Value**: Friday, Saturday, and Sunday are the highest revenue-generating days, though there is no significant difference between weekdays.
 - **Business Impact**: Potential to boost weekday sales through promotions or special offers targeting casual riders.
 
-- <img width="473" alt="Revenue per weekday" src="https://github.com/user-attachments/assets/538c973b-d57c-4ac9-ac5f-75cde3caed6e">
+<img width="473" alt="Revenue per weekday" src="https://github.com/user-attachments/assets/538c973b-d57c-4ac9-ac5f-75cde3caed6e">
+
+
 
 
 ## 5. Recommendations
